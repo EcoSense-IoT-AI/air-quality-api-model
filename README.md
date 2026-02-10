@@ -40,7 +40,7 @@ air-quality-api-model/
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/EcoSense-IoT-AI/air-quality-api-model.git
 cd air-quality-api-model
 ```
 
